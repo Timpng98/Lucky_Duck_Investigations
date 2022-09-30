@@ -1,0 +1,18 @@
+0310:
+5
+0312:
+5
+0315:
+3
+
+(obtained with command below)
+(echo "0310:" && grep '0310' Roulette_Losses | wc -l)
+
+Using (cat Roulette_Losses | grep -i "Mylie"), I can see that the
+player that was playing during all those times was Mylie Schmidt.
+
+Total times played for Mylie: 
+13
+
+(obtained with command below)
+(echo "Total times played for Mylie: " && cat Roulette_Losses |grep -i "Mylie" | wc -l)

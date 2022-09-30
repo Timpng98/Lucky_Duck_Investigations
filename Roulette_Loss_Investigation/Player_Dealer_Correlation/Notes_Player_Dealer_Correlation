@@ -1,0 +1,8 @@
+After looking at the data, the 2 people who are colluding to scam Lucky Duck Casino, are Mylie Schmidt and Billy Jones.
+After gathering all the evidence and filtering out the losses into a seperate file, discovered that there were a total 
+of 13 losses between all 3 days, March 10,12, and 15. Using a script, looking at when the losses occured and which Dealer was 
+working roulette, the one name that was frequent was Billy Jones. The result is located in Dealer_working_during_losses folder. 
+Looking at the days for which players are present during the losses, the name that was always playing during those times 
+was Mylie Schmidt. The results are located in the file Roulette_Losses. The losses ranged between $65,348 - $182,419.
+In conclusion, the same dealer and player working and playing together speciifically when the losses occured is odd and should 
+be looked into. 

@@ -1,0 +1,9 @@
+The primary dealer looking at the Dealers_working_during_Losses is Billy Jones
+
+(command: cat Dealers_working_during_Losses | grep -i "Billy"*)
+
+The Dealer worked 13 times during which the biggest losses occured
+
+gotten with command:
+
+cat Dealers_working_during_Losses | grep -i 'Billy'* | wc -l
